@@ -2,7 +2,7 @@ body{
 background-image: url("background.jpg");
 background-size: 2000px;
 }
-.diomaledetto{
+.container{
   width: 1000px;
   height: 600px;
   margin:150px auto;
