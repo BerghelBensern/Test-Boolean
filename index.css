@@ -1,0 +1,65 @@
+body{
+background-image: url("background.jpg");
+background-size: 2000px;
+}
+.diomaledetto{
+  width: 1000px;
+  height: 600px;
+  margin:150px auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  padding: 150px;
+}
+.lim{
+  text-align: center;
+
+}
+.img{
+  width: 250px;
+}
+h1 {
+  color: lime;
+}
+.asd{
+  background-color: lime;
+  padding: 20px;
+  text-align: center;
+
+}
+ .ade{
+   font-size: 25px;
+   color: white;
+ }
+.era{
+  font-size: 18px;
+  color: white;
+}
+.ma{
+  color: white;
+  font-size: 18px;
+}
+
+.ai{
+  background-color: orange;
+  width: 500px;
+}
+
+.bi{
+  background-color: lime;
+  width: 800px;
+}
+.ci{
+  background-color: crimson;
+  width: 100px;
+}
+.ai,.bi,.ci{
+  height: 20px;
+  border-radius: 10px;
+
+}
+.scritte{
+  margin-bottom: 50px;
+}
+.SCRITTA{
+  margin-top: 50px;
+}
